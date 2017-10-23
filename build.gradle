@@ -26,9 +26,9 @@ esdk {
         appId="1234"
         shared=true
 		entryPoints = []
-        infosystems = ["IS.OWPDM.PDMDOCUMENTS"]
+        infosystems = []
         tables = []
-        
+        data = ["data.json"]
 }
 
     abas {

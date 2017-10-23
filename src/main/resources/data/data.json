@@ -2,30 +2,17 @@
   "roots" : [
     
     {
-      "dbnr" : 88,
+      "dbnr" : 99,
       "grnr" : 4,
-      "headfields" : [ "id", "guid", "such", "name",  "leinh" ,"breite" , "hoehe"],
-      "tablefields" : [],
-      "criteria" : "such=A!A"
+      "headfields" : [ "id", "guid", "such", "name",  "verwaz" ],
+      "tablefields" : ["zid", "key" , "label" , "operator" , "sini" , "feldinitflag" , "feldinitflag" , "feldschutztol" , "subeditda" ],
+      "criteria" : "nummer=100001!"
     },{
-      "dbnr" : 87, 
-      "grnr" : 9,
-      "headfields" : [ "id", "guid", "such", "name", "name2","icontxt","dialogart","dialograng","nurkopf","kopierap","arb","aktiv","unsichtbar" ,"zielobj","zielobj","zielobj","zielobj","aufrktxt","aufrktxt","aufrktxt","aufrktxt","zieltab","aufrtab","aufrbedtyp","aufrbed","aufrzieltyp","aufrziel","zielmodus" ],
-      "tablefields" : ["zid", "zielaktion","zielvar","zielzeile","aufrwtyp" , "aufrwert" , "aufrpflicht"],
-      "criteria" : "nummer=100020"
-    }, {
-                        "dbnr" : 65,
-                        "grnr" : 1,
-                        "headfields" : [ "id", "such", "name" , "guid" ],
-                        "tablefields" : [],
-                        "criteria" : "such==PDMDOCUMENTS"
-                }, {
-                        "dbnr" : 12,
-                        "grnr" : 26,
-                        "headfields" : [ "id", "such", "name" , "guid" ],
-                        "tablefields" : [],
-                        "criteria" : "such==V-04-22"
-                }
-    
+      "dbnr" : 108, 
+      "grnr" : 3,
+      "headfields" : [ "id", "guid", "such", "name", "ftext" , "ftext2" , "varsprache" , "dn" , "grtxt" , "genschema" , "zielselektion" , "feldliste" , "nueberfeldliste" , "dastatus" , "subeditkonfig" , "fopvorlage"  ],
+      "tablefields" : [ "zid" , "mdastatus" , "modus" ,"zielmodus","filter","zeilenfilter" , "abwfeldliste" , "abwselektion" , "zeilenselektion" , "ptext" , "beschr" , "tabloe" , "tabloezs" , "impmsnachr" , "ohneselang" ],
+      "criteria" : "nummer=!"
+    }
   ]
 }
