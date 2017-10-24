@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ABASData>
+    <RecordSet tableNumber="109:2" tableName="Wertemengen:Bezeichner">
+        <Record id="(156,109,0)">
+            <Head>
+                <Field name="id" abasType="ID109">(156,109,0)</Field>
+                <Field name="guid" abasType="GLA38">672ae477-c04b-4ee1-9fad-c9b367defaa7</Field>
+                <Field name="nummer" abasType="NK109">2004</Field>
+                <Field name="such" abasType="SWK109">APPLSEARCHENGINE</Field>
+                <Field name="name" abasType="GL50">Suchmaschine</Field>
+                <Field name="name14" abasType="GL50">Search engine</Field>
+                <Field name="langtxt" abasType="GL"></Field>
+                <Field name="kbezbspr" abasType="GL15"></Field>
+                <Field name="katego" abasType="NT15"></Field>
+                <Field name="icontxt" abasType="DV1"></Field>
+                <Field name="besch" abasType="T65"></Field>
+            </Head>
+        </Record>
+        <Record id="(154,109,0)">
+            <Head>
+                <Field name="id" abasType="ID109">(154,109,0)</Field>
+                <Field name="guid" abasType="GLA38">6637532d-541a-4986-ae96-87344a2780be</Field>
+                <Field name="nummer" abasType="NK109">2002</Field>
+                <Field name="such" abasType="SWK109">APPLBI</Field>
+                <Field name="name" abasType="GL50">Business Intelligence (BI)</Field>
+                <Field name="name14" abasType="GL50">Business Intelligence (BI)</Field>
+                <Field name="langtxt" abasType="GL"></Field>
+                <Field name="kbezbspr" abasType="GL15"></Field>
+                <Field name="katego" abasType="NT15"></Field>
+                <Field name="icontxt" abasType="DV1"></Field>
+                <Field name="besch" abasType="T65"></Field>
+            </Head>
+        </Record>
+        <Record id="(263,109,0)">
+            <Head>
+                <Field name="id" abasType="ID109">(263,109,0)</Field>
+                <Field name="guid" abasType="GLA38">42371904-bed1-4028-b6c1-7ecc384fe4b5</Field>
+                <Field name="nummer" abasType="NK109">2248</Field>
+                <Field name="such" abasType="SWK109">APPLINTRASTAT</Field>
+                <Field name="name" abasType="GL50">Intrastat</Field>
+                <Field name="name14" abasType="GL50">Intrastat</Field>
+                <Field name="langtxt" abasType="GL"></Field>
+                <Field name="kbezbspr" abasType="GL15"></Field>
+                <Field name="katego" abasType="NT15"></Field>
+                <Field name="icontxt" abasType="DV1"></Field>
+                <Field name="besch" abasType="T65"></Field>
+            </Head>
+        </Record>
+        <Record id="(153,109,0)">
+            <Head>
+                <Field name="id" abasType="ID109">(153,109,0)</Field>
+                <Field name="guid" abasType="GLA38">c5b0afcf-3930-427f-9107-602b9f33386c</Field>
+                <Field name="nummer" abasType="NK109">2001</Field>
+                <Field name="such" abasType="SWK109">APPLEDI</Field>
+                <Field name="name" abasType="GL50">Electronic Data Interchange (EDI)</Field>
+                <Field name="name14" abasType="GL50">Electronic Data Interchange (EDI)</Field>
+                <Field name="langtxt" abasType="GL"></Field>
+                <Field name="kbezbspr" abasType="GL15"></Field>
+                <Field name="katego" abasType="NT15"></Field>
+                <Field name="icontxt" abasType="DV1"></Field>
+                <Field name="besch" abasType="T65"></Field>
+            </Head>
+        </Record>
+        <Record id="(155,109,0)">
+            <Head>
+                <Field name="id" abasType="ID109">(155,109,0)</Field>
+                <Field name="guid" abasType="GLA38">9d52fe35-b4ec-4f74-8393-d43aadcd2386</Field>
+                <Field name="nummer" abasType="NK109">2003</Field>
+                <Field name="such" abasType="SWK109">APPLMULTISITE</Field>
+                <Field name="name" abasType="GL50">Multisite</Field>
+                <Field name="name14" abasType="GL50">Multisite</Field>
+                <Field name="langtxt" abasType="GL"></Field>
+                <Field name="kbezbspr" abasType="GL15"></Field>
+                <Field name="katego" abasType="NT15"></Field>
+                <Field name="icontxt" abasType="DV1"></Field>
+                <Field name="besch" abasType="T65"></Field>
+            </Head>
+        </Record>
+        <Record id="(262,109,0)">
+            <Head>
+                <Field name="id" abasType="ID109">(262,109,0)</Field>
+                <Field name="guid" abasType="GLA38">c7aa4514-0393-431b-828b-7cb2084bf09e</Field>
+                <Field name="nummer" abasType="NK109">2247</Field>
+                <Field name="such" abasType="SWK109">APPLPDM</Field>
+                <Field name="name" abasType="GL50">PDM/PLM</Field>
+                <Field name="name14" abasType="GL50">PDM/PLM</Field>
+                <Field name="langtxt" abasType="GL"></Field>
+                <Field name="kbezbspr" abasType="GL15"></Field>
+                <Field name="katego" abasType="NT15"></Field>
+                <Field name="icontxt" abasType="DV1"></Field>
+                <Field name="besch" abasType="T65"></Field>
+            </Head>
+        </Record>
+        <Record id="(245,109,0)">
+            <Head>
+                <Field name="id" abasType="ID109">(245,109,0)</Field>
+                <Field name="guid" abasType="GLA38">2256499f-6e56-490d-bd51-74d91b1c9a01</Field>
+                <Field name="nummer" abasType="NK109">2230</Field>
+                <Field name="such" abasType="SWK109">APPWEBAPP</Field>
+                <Field name="name" abasType="GL50">Business App</Field>
+                <Field name="name14" abasType="GL50">Business App</Field>
+                <Field name="langtxt" abasType="GL">BAPPS_URL</Field>
+                <Field name="kbezbspr" abasType="GL15"></Field>
+                <Field name="katego" abasType="NT15"></Field>
+                <Field name="icontxt" abasType="DV1"></Field>
+                <Field name="besch" abasType="T65"></Field>
+            </Head>
+        </Record>
+    </RecordSet>
+    <RecordSet tableNumber="107:1" tableName="Aufzählung:Aufzählung">
+        <Record id="(188,107,0)">
+            <Head>
+                <Field name="id" abasType="ID107">(188,107,0)</Field>
+                <Field name="guid" abasType="GLA38">fd16f524-b8e1-494b-993a-bd25f1d3c354</Field>
+                <Field name="nummer" abasType="NK107">20130</Field>
+                <Field name="such" abasType="SWK107">EDIAPPLICATION</Field>
+                <Field name="name" abasType="GL45">EDI Verwendung</Field>
+                <Field name="name14" abasType="GL45">EDI use</Field>
+                <Field name="classname" abasType="GLA40">EdiApplication</Field>
+                <Field name="tabart" abasType="NT24">P109:2</Field>
+            </Head>
+            <Row number="6">
+                <Field name="zid" abasType="IDZ107:1">(188,107,0,6)</Field>
+                <Field name="vaufzelem" abasType="VID88">(262,109,0)</Field>
+            </Row>
+            <Row number="5">
+                <Field name="zid" abasType="IDZ107:1">(188,107,0,5)</Field>
+                <Field name="vaufzelem" abasType="VID88">(245,109,0)</Field>
+            </Row>
+            <Row number="7">
+                <Field name="zid" abasType="IDZ107:1">(188,107,0,7)</Field>
+                <Field name="vaufzelem" abasType="VID88">(263,109,0)</Field>
+            </Row>
+            <Row number="3">
+                <Field name="zid" abasType="IDZ107:1">(188,107,0,3)</Field>
+                <Field name="vaufzelem" abasType="VID88">(155,109,0)</Field>
+            </Row>
+            <Row number="4">
+                <Field name="zid" abasType="IDZ107:1">(188,107,0,4)</Field>
+                <Field name="vaufzelem" abasType="VID88">(156,109,0)</Field>
+            </Row>
+            <Row number="1">
+                <Field name="zid" abasType="IDZ107:1">(188,107,0,1)</Field>
+                <Field name="vaufzelem" abasType="VID88">(153,109,0)</Field>
+            </Row>
+            <Row number="2">
+                <Field name="zid" abasType="IDZ107:1">(188,107,0,2)</Field>
+                <Field name="vaufzelem" abasType="VID88">(154,109,0)</Field>
+            </Row>
+        </Record>
+    </RecordSet>
+</ABASData>

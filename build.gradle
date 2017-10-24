@@ -28,6 +28,7 @@ esdk {
 		entryPoints = []
         infosystems = []
         tables = []
+        enums = ["EDIAPPLICATION"]
         data = ["data.json"]
 }
 
