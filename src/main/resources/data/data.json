@@ -4,7 +4,7 @@
     {
       "dbnr" : 99,
       "grnr" : 4,
-      "headfields" : [ "guid" , "id" , "such", "name" ],
+      "headfields" : [ "guid" , "id" , "such", "name" , "verwaz" ],
       "tablefields" : ["zid", "key" , "label" , "operator" , "sini" , "feldinitflag" , "feldinitflag" , "feldschutztol" , "subeditda" ],
       "criteria" : "nummer=100001!"
     },
@@ -18,3 +18,4 @@
     }
   ]
 }
+
